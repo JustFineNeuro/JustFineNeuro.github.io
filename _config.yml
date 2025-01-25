@@ -1,44 +1,23 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Justin Fine, PhD
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Justin Fine
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  bio: "Data scientist and machine learning engineer making sense thru algorithms"
   email: laderast@ohsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
+  linkedin: https://www.linkedin.com/in/justin-fine-phd-3b5a1122a/
+  github: JustFineNeuro
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
-  facebook: #username
-  instagram: #username
-  bing-verify:
-  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
-  xing: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  disqus-shortname:
+    scholar: https://scholar.google.co.uk/citations?user=yd2EIPIAAAAJ&hl=en
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
