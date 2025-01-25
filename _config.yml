@@ -6,12 +6,12 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Justin Fine
+  name: Justin Fine, PhD.
   avatar: bio-photo.jpg
   bio: "Data scientist and machine learning engineer making sense thru algorithms"
-  email: laderast@ohsu.edu
+  email: justfineneuro@gmail.com
   # Do not include the @ symbol in your Twitter username
-  linkedin: https://www.linkedin.com/in/justin-fine-phd-3b5a1122a/
+  linkedin: https://www.linkedin.com/in/justin-fine-phd-3b5a1122a
   github: JustFineNeuro
   google:
     plus: #username
