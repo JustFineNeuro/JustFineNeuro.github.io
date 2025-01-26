@@ -7,13 +7,13 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2009-2015`
+__Arizona State University__
+PhD in Cognitive Science
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2004 - 2009`
+__University of Cincinnati__
+BA Honors in Psychology
 
 ## Awards
 
